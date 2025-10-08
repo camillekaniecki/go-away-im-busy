@@ -1,5 +1,9 @@
+/** 
+ * Based on https://github.com/googleworkspace/apps-script-samples/blob/main/calendar/quickstart/quickstart.gs
+ */
+
 /**
- * Lists 10 upcoming events in the user's calendar.
+ * Lists 5 upcoming events in the user's calendar.
  * @see https://developers.google.com/calendar/api/v3/reference/events/list
  */
 
