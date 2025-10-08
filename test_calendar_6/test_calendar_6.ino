@@ -3,8 +3,8 @@
 #include <R4HttpClient.h>
 #include <ArduinoJson.h>
 
-char ssid[] = "CopperTiger";
-char pass[] = "pooppooppoop";
+char ssid[] = "XXXXX";
+char pass[] = "YYYYYYY";
 
 // The URL of your Google Apps Script Web App
 const char* googleWebAppUrl = "https://script.google.com/macros/s/AKfycbx9XzV7zwqDjjNmUf5UEyU_K8FHIQ8V3heL5BGpOTdudIXL5Yb7WWUCOENia1u84MWnaQ/exec";

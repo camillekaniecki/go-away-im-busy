@@ -2,8 +2,8 @@
 #include <WiFiSSLClient.h>
 #include <ArduinoJson.h>
 
-char ssid[] = "CopperTiger";
-char pass[] = "pooppooppoop";
+char ssid[] = "XXXXX";
+char pass[] = "YYYYYYY";
 
 char* curl = "curl -d \"client_id=652766651007-0fonohibrbul5505i5cbms3avpa8eq7t.apps.googleusercontent.com&scope=email%20profile\" \
      https://oauth2.googleapis.com/device/code";
